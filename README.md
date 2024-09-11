@@ -1,7 +1,7 @@
-repository-name
-# Repository Name
+noteplan-kanban
+# Noteplan Kanban
 
-Based on "ABC" at https://www.abc.com/
+Based on "Use Split Views as Kanban Board" at https://help.noteplan.co/article/142-use-split-views-as-kanban-board
 
 ## 100 - Introduction
 
