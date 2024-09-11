@@ -1,6 +1,6 @@
 记事本招牌
 
-# 记事本招牌
+# Noteplan Kanban
 
 基于“使用分割视图作为看板”，位于<https://help.noteplan.co/article/142-use-split-views-as-kanban-board>
 
@@ -12,10 +12,10 @@
 
 看[README.md](./200/README.md)
 
-## 300 - Building Our Application
+## 300 - 构建我们的应用程序
 
-See [README.md](./300/README.md)
+看[README.md](./300/README.md)
 
-## 400 - 结论
+## 400 - Conclusion
 
 看[README.md](./400/README.md)
