@@ -16,3 +16,4 @@ Click and open the note "ToDo", then hold the option key and click on "Doing" an
 
 Now you can create a few tasks in your "ToDo" note and move them via drag & drop from column to column:
 
+![file-kinUlNHSYa](https://github.com/user-attachments/assets/aa63b08d-ab3a-4304-b5c7-eeaa69496d74)
