@@ -1,12 +1,12 @@
-اسم المستودع
+لافتة المفكرة
 
-# اسم المستودع
+# لافتة المفكرة
 
-استنادا إلى "ABC" في<https://www.abc.com/>
+استنادًا إلى "استخدام طرق العرض المقسمة كلوحة كانبان" في<https://help.noteplan.co/article/142-use-split-views-as-kanban-board>
 
 ## 100- مقدمة
 
-See [README.md](./100/README.md)
+يرى[README.md](./100/README.md)
 
 ## 200 - المتطلبات
 
