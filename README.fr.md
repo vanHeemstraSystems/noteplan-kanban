@@ -1,6 +1,6 @@
 Enseigne de bloc-notes
 
-# Noteplan Kanban
+# Enseigne de bloc-notes
 
 Basé sur « Utiliser les vues fractionnées comme tableau Kanban » sur<https://help.noteplan.co/article/142-use-split-views-as-kanban-board>
 
