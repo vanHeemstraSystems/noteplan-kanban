@@ -1,8 +1,8 @@
-儲存庫名稱
+記事本招牌
 
-# 儲存庫名稱
+# 記事本招牌
 
-基於“ABC”<https://www.abc.com/>
+基於“使用分割視圖作為看板”，位於<https://help.noteplan.co/article/142-use-split-views-as-kanban-board>
 
 ## 100 - 簡介
 
